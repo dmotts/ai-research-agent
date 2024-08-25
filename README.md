@@ -88,7 +88,7 @@ To contribute:
 
 Please ensure your code follows the project's coding standards and includes tests where appropriate.
 
-## Let's Connect
+## Follow Back
 
 If you find this project useful, please consider connecting with me on GitHub:
 
