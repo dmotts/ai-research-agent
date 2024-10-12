@@ -75,7 +75,7 @@ def scrape_website(objective: str, url: str):
         for script in soup(["script", "style"]):
             script.decompose()
         text = soup.get_text()
-        print("CONTENTTTTTT:", text)
+        print("CONTENT:", text)
 
         if len(text) > 10000:
             output = summary(objective, text)
